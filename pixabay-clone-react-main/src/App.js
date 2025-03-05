@@ -4,6 +4,7 @@ import Search from "./pages/Search";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import MediaGallery from "./components/MediaGallery";
 
 function App() {
   return (
