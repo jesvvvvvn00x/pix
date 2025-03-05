@@ -28,7 +28,7 @@ const Home = () => {
       className="text-center text-2xl h-screen bg-gray-200 py-52 md:py-80"
       style={{
         backgroundImage:
-          "url(https://images.pexels.com/photos/68507/spring-flowers-flowers-collage-floral-68507.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)",
+          "url(https://images.pexels.com/photos/1122628/pexels-photo-1122628.jpeg?auto=compress&cs=tinysrgb&w=1200)",
       }}
     >
       <div className="w-full  bg-white h-screen  ">
