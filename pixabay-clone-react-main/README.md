@@ -2,8 +2,19 @@
 # Pixabay Clone in React-Js
 a Responsive Image viewer application in React where user can view search and filter their image.
 
+## Video Tutorial: Building a Simple Image Search App with React and Pixabay API
 
+Learn how to build a similar image search application using React and the Pixabay API with this helpful tutorial:
 
+[![React Pixabay API Tutorial](https://img.youtube.com/vi/0)](https://img.youtube.com/vi/1)
+
+Or watch it directly here: [https://img.youtube.com/vi/1](https://img.youtube.com/vi/1)
+
+This tutorial covers:
+
+* Fetching data from the Pixabay API
+* Displaying images in a React application
+* Implementing basic search and filtering functionality
 
 
 ## Screenshots
